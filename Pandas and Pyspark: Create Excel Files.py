@@ -164,3 +164,8 @@ writer.close()
 import shutil
 
 shutil.move("excel_with_header.xlsx", "/Volumes/main/sampledatabase/sample_volume_2/excel_with_header.xlsx")
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ### A new text cell appears!
